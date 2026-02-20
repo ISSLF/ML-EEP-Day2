@@ -1,0 +1,77 @@
+# =========================
+# Python bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+ml-env/
+venv/
+env/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Optional: remove if you want to track output-heavy notebooks
+# *.ipynb
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Logs & runtime files
+# =========================
+*.log
+*.out
+*.err
+*.pid
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Distribution / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Testing
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Data files (optional)
+# Uncomment if needed
+# =========================
+# data/
+# *.csv
+# *.xlsx
+# *.parquet
+# *.db
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
