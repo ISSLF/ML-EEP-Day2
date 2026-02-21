@@ -8,7 +8,6 @@ __pycache__/
 # =========================
 # Virtual Environment
 # =========================
-ml-env/
 venv/
 env/
 .venv/
